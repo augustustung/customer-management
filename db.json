@@ -1,0 +1,28 @@
+{
+	"login": [
+		{"username": "root", "password": "root"}
+	],
+	"user": [
+		{
+			"id": 1,
+			"name": "Maria",
+			"age": 30,
+			"gender": "female",
+			"address": "America"
+		},
+		{
+			"id": 2,
+			"name": "John",
+			"age": 22,
+			"gender": "male",
+			"address": "Singapore"
+		},
+		{
+			"id": 3,
+			"name": "Katarina",
+			"age": 29,
+			"gender": "male",
+			"address": "Europe"
+		}
+	]
+}
