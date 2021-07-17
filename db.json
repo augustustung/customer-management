@@ -1,28 +1,35 @@
 {
 	"login": [
-		{"username": "root", "password": "root"}
+	  {
+		"username": "root",
+		"password": "root",
+		"name":"Augustus Flynn"
+	  }
 	],
 	"user": [
-		{
-			"id": 1,
-			"name": "Maria",
-			"age": 30,
-			"gender": "female",
-			"address": "America"
-		},
-		{
-			"id": 2,
-			"name": "John",
-			"age": 22,
-			"gender": "male",
-			"address": "Singapore"
-		},
-		{
-			"id": 3,
-			"name": "Katarina",
-			"age": 29,
-			"gender": "male",
-			"address": "Europe"
-		}
+	  {
+		"name": "Tommy",
+		"address": "Japan", 
+		"email": "tommy32@gmail.com",
+		"contact": "09631315",
+		"id": 2,
+		"status": "normal"
+	  },
+	  {
+		"name": "Jane",
+		"address": "Australia",
+		"email": "jane1v2@gmail.com",
+		"contact": "61213123",
+		"status":"loyalty customer",
+		"id": 3
+	  },
+	  {
+		"name": "Augustus Flynn",
+		"email": "huytung139@gmail.com",
+		"contact": "0913115560",
+		"address": "Ha Noi",
+		"status":"loyalty customer",
+		"id": 4
+	  }
 	]
-}
+  }
